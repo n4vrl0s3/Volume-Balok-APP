@@ -4,20 +4,28 @@
 </div>
 
 # Volume Balok APP
+
 This repository contains the source code for a Volume Balok (Cuboid) calculator application developed using the Kotlin language within the Android Studio environment.
+
 <hr><br>
 
 ## Purpose of This Repository
+
 To provide a simple and efficient tool for calculating the volume of a rectangular prism.
+
 <hr><br>
 
 ## Steps
+
 1. Clone this Repository
+
 ```
 git clone https://github.com/guanshiyin28/Volume-Balok-App.git
 ```
+
 2. Open the project
 3. Run the project
+
 <hr><br>
 
 <div align="center">
