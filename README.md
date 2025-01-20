@@ -15,16 +15,38 @@ To provide a simple and efficient tool for calculating the volume of a rectangul
 
 <hr><br>
 
-## Steps
+## Features
+
+- Simple and intuitive user interface
+- Real-time volume calculation
+- Error handling for invalid inputs
+
+<hr><br>
+
+## Technologies Used
+
+- Kotlin
+- Android Studio
+
+<hr><br>
+
+## Steps to Run
 
 1. Clone this Repository
 
 ```
-git clone https://github.com/guanshiyin28/Volume-Balok-App.git
+git clone https://github.com/guanshiyin28/Volume-Balok-APP.git
 ```
 
-2. Open the project
-3. Run the project
+2. Open the project in Android Studio
+3. Build the project
+4. Run the project on an emulator or a physical device
+
+<hr><br>
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 <hr><br>
 
