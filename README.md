@@ -1,8 +1,3 @@
-<div align="center" height="35">
-  
-![Demo](https://github.com/user-attachments/assets/0883ec0d-874f-4741-8799-b33f3c852c06)
-</div>
-
 # Volume Balok APP
 
 This repository contains the source code for a Volume Balok (Cuboid) calculator application developed using the Kotlin language within the Android Studio environment.
@@ -17,10 +12,21 @@ To provide a simple and efficient tool for calculating the volume of a rectangul
 
 ## Demo
 
-<div align="center">
-  
-![Demo](https://github.com/user-attachments/assets/0883ec0d-874f-4741-8799-b33f3c852c06)
-</div>
+Below is a demonstration of the Volume Balok APP in action:
+
+```kotlin
+fun calculateVolume(length: Double, width: Double, height: Double): Double {
+    return length * width * height
+}
+
+fun main() {
+    val length = 5.0
+    val width = 3.0
+    val height = 2.0
+    val volume = calculateVolume(length, width, height)
+    println("The volume of the cuboid is: $volume")
+}
+```
 
 <hr><br>
 
