@@ -16,6 +16,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
+        android:fontFamily="@font/montserrat_bold"
         android:text="@string/Length"
         />
 
@@ -25,6 +26,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
+        android:fontFamily="@font/montserrat_bold"
         android:lines="1"
         android:inputType="numberDecimal"
         />
@@ -34,6 +36,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
+        android:fontFamily="@font/montserrat_bold"
         android:text="@string/width"
         />
 
@@ -43,6 +46,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
+        android:fontFamily="@font/montserrat_bold"
         android:lines="1"
         android:inputType="numberDecimal"
         />
@@ -52,6 +56,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
+        android:fontFamily="@font/montserrat_bold"
         android:text="@string/Height"
         />
 
@@ -61,6 +66,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
+        android:fontFamily="@font/montserrat_bold"
         android:lines="1"
         android:inputType="numberDecimal"
         />
@@ -71,6 +77,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
+        android:fontFamily="@font/montserrat_bold"
         android:text="@string/calculate"
         />
 
@@ -81,6 +88,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginEnd="20dp"
         android:text="@string/result"
+        android:fontFamily="@font/montserrat_black"
         android:gravity="center"
         android:textStyle="bold"
         android:textSize="24sp"
