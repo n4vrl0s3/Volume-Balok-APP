@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "VolumeBalok"
+rootProject.name = "Cuboid"
 include(":app")
