@@ -30,6 +30,12 @@ fun main() {
 
 <hr><br>
 
+## Releases
+
+You can find the latest releases [here](https://github.com/guanshiyin28/Volume-Balok-APP/releases).
+
+<hr><br>
+
 ## Features
 
 - Simple and intuitive user interface
